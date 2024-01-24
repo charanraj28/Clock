@@ -3,4 +3,6 @@ This Real-Time Clock Webpage project offers a clean and functional solution for 
 
 
 Output:
+
+
 <img width="893" alt="Screenshot 2024-01-24 at 11 11 14 PM" src="https://github.com/charanraj28/Clock/assets/97870117/4ec9eaa8-105a-4fd6-9ab2-3fc286a6ff75">
